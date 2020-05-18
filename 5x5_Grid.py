@@ -25,5 +25,9 @@ for i in range(25):
 
 print("Your result is", iCurrent)
 
+<<<<<<< HEAD
 def func():
 	print("haha")
+=======
+print("testing")
+>>>>>>> master
